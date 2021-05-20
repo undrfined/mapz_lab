@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4a716f2f_002D6034_002D4050_002Db767_002Dc8dc7a49dac4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestDbController" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::9B6063A0-B2D3-4157-9C6C-A7392B1D3329::net5.0::Lab4Test.Tests.TestDbController&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2e5da2d_002D8bb1_002D4961_002Dbe01_002Dfb1ad2f5cefc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::9B6063A0-B2D3-4157-9C6C-A7392B1D3329::net5.0::Lab4Test.Tests.TestAdminPanel&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::9B6063A0-B2D3-4157-9C6C-A7392B1D3329::net5.0::Lab4Test.Tests.TestStats&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::9B6063A0-B2D3-4157-9C6C-A7392B1D3329::net5.0::Lab4Test.Tests.TestDbController&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

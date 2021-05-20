@@ -1,0 +1,12 @@
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/bin/Debug/net5.0/Lab4.deps.json
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/bin/Debug/net5.0/Lab4.dll
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/bin/Debug/net5.0/ref/Lab4.dll
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/bin/Debug/net5.0/Lab4.pdb
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.csprojAssemblyReference.cache
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.AssemblyInfoInputs.cache
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.AssemblyInfo.cs
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.dll
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/ref/Lab4.dll
+/Users/undrfined/Projects/NULP/2_2/mapz/Lab4_2/Lab4/Lab4/obj/Debug/net5.0/Lab4.pdb
